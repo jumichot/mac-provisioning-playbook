@@ -1,0 +1,110 @@
+homebrew_installed_packages:
+
+  # dev tools
+  - ansible             # it automation, server provisionning, config tool
+  - csv-fix             # helps manipulatings and fixing csv files
+  - ctags               # Generates an index to locate quickly
+  - git                 # versionning software
+  - hub                 # git wrapper to help with github manipulation
+  - pgcli               # command line interface for postgres http://pgcli.com/
+  - thefuck             # retry command that fail, like sudo, git push...
+  - tig                 # git gui in terminal
+  - vim                 # file editor
+
+  # - autoconf
+  # - heroku-toolbelt
+  # - automake
+  # - bison
+  # - cabal-install
+  # - cloog
+  # - cmake
+  # - diff-so-fancy
+  # - dos2unix
+  # - dynamodb-local
+  # - elasticsearch
+  # - elixir
+  # - emacs-mac
+  # - erlang
+  # - exercism
+  # - faac
+  # - fasd
+  # - fcrackzip
+  # - fpp
+  # - freetype
+  # - fswatch
+  # - fzf
+  # - gdbm
+  # - gettext
+  # - ghc
+  # - git-flow
+  # - glib
+  # - gmp
+  # - go
+  # - gradle
+  # - graphviz
+  # - htop-osx
+  # - imagemagick
+  # - isl
+  # - jpeg
+  # - jq
+  # - jrnl
+  # - jsonpp
+  # - kafka
+  # - lame
+  # - libav
+  # - libevent
+  # - libffi
+  # - libmpc
+  # - libpng
+  # - libssh2
+  # - libtiff
+  # - libtool
+  # - libyaml
+  # - lynx
+  # - mas
+  # - mercurial
+  # - midnight-commander
+  # - mongodb
+  # - mpfr
+  # - mysql
+  # - neo4j
+  # - node
+  # - nvm
+  # - oniguruma
+  # - openssl
+  # - pandoc
+  # - parity
+  # - pcre
+  # - phantomjs
+  # - pick
+  # - pkg-config
+  # - postgresql
+  # - qt5
+  # - ranger
+  # - rbenv
+  # - rbenv-gemset
+  # - rcm
+  # - readline
+  # - reattach-to-user-namespace
+  # - redis
+  # - ruby-build
+  # - s-lang
+  # - sqlite
+  # - terminal-notifier
+  # - textql
+  # - the_silver_searcher
+  # - tmux
+  # - tree
+  # - unison
+  # - unixodbc
+  # - unoconv
+  # - v8
+  # - watchman
+  # - wget
+  # - wxmac
+  # - x264
+  # - xvid
+  # - xz
+  # - youtube-dl
+  # - zookeeper
+  # - zsh
