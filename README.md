@@ -14,3 +14,13 @@ cd mac-provisioning-playbook
 ansible-playbook laptop.yml -K
 ```
 
+
+##Manual installs
+- Load licences into paid apps : istat, bettertouchtool, bartender, hazzel
+
+##TODO
+- tmuxinator
+- custom zsh plugins
+- solarized
+
+

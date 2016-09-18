@@ -9,6 +9,7 @@ homebrew_upgrade_all_packages: no
 
 homebrew_taps:
   - caskroom/cask
+  - homebrew/services
 
 homebrew_cask_apps:
   - quitter

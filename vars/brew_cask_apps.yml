@@ -1,0 +1,50 @@
+homebrew_cask_apps:
+  - alfred           # quick search bar
+  - appcleaner       # install cleanly apps
+  - atext            # text expander
+  - atom             # text editor
+  - backblaze        # backup solution
+  - bartender        # organize menu bar apps
+  - caffeine         # don't sleep
+  - clipmenu         # clipboard menu
+  - dash             # offline code documentations
+  - dashlane         # password manager
+  - disk-inventory-x # view where hd space goes
+  - dropbox          # TODO : remove that dependency
+  - evernote         # note taking, ocr images
+  - fantastical      # calendar that understand human words
+  - transmit         # fpt client
+  - firefox          # browser
+  - flux             # help stop coding at night
+  - google-chrome    # browser
+  - hazel            # mac automation tool
+  - imageoptim       # makes images load faster
+  - istat-menus      # mac metrics in menu bar
+  - iterm2           # terminal
+  - karabiner        # key remapping software
+  - kitematic        # docker store
+  - docker           # run containers
+  - libreoffice      # open Word, Excell files
+  - livereload       # livereload server for autoreloading
+  - noizio           # ambiant noises, great for productivity
+  - paw              # best gui http client
+  - quitter          # quit inactive apps
+  - rescuetime       # track where time goes
+  - skype            # video / audio communication
+  - slack            # instant messages
+  - spotify          # get some music
+  - sqlitebrowser    # sqlite gui
+  - toggldesktop     # app tracking
+  - transmission     # torrent downloader
+  - xccello          # trello desktop app
+  - virtualbox       # virtual machines
+  - vlc              # media player
+
+# - wireshark # packets inspector
+# - ccmenu # check ci build status
+# - contexts # alt tab switching https://contexts.co/
+# - freemind # mindmapping app multiplateform
+# - licecap # record gif, monosnap seems better
+# - mindnode-pro # mind mapping, install through app store
+# - path-finder # better finder... heavy
+# - totalspaces # dead for the moment, very sad
