@@ -1,5 +1,4 @@
 homebrew_installed_packages:
-
   # dev tools
   - ansible             # it automation, server provisionning, config tool
   - csv-fix             # helps manipulatings and fixing csv files
