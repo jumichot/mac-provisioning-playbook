@@ -2,7 +2,8 @@
 - hosts: localhost
   connection: local
   vars_files:
+    - vars/homebrew_taps.yml
     - vars/homebrew_packages.yml
-    - vars/brew_cask_apps.yml
+    - vars/homebrew_cask_apps.yml
   roles:
     - homebrew

@@ -1,0 +1,4 @@
+homebrew_taps:
+  - caskroom/cask
+  - homebrew/services
+  - thoughtbot/formulae # for parity, rcm,...
