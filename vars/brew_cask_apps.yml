@@ -39,12 +39,16 @@ homebrew_cask_apps:
   - xccello          # trello desktop app
   - virtualbox       # virtual machines
   - vlc              # media player
+  - bettertouchtool  # windows snapping + custom shortcut
 
-# - wireshark # packets inspector
-# - ccmenu # check ci build status
-# - contexts # alt tab switching https://contexts.co/
-# - freemind # mindmapping app multiplateform
-# - licecap # record gif, monosnap seems better
-# - mindnode-pro # mind mapping, install through app store
-# - path-finder # better finder... heavy
-# - totalspaces # dead for the moment, very sad
+  # - charles           # packets inspector only on mac
+  # - calibre           # converting pdf to epub
+  # - wireshark         # packets inspector
+  # - doxie             # portable scanner
+  # - ccmenu            # check ci build status
+  # - contexts          # alt tab switching https://contexts.co/
+  # - freemind          # mindmapping app multiplateform
+  # - licecap           # record gif, monosnap seems better
+  # - mindnode-pro      # mind mapping, install through app store
+  # - path-finder       # better finder... heavy
+  # - totalspaces       # dead for the moment, very sad
