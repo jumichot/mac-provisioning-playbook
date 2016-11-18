@@ -1,109 +1,71 @@
 homebrew_installed_packages:
-  # dev tools
-  - ansible             # it automation, server provisionning, config tool
-  - csv-fix             # helps manipulatings and fixing csv files
-  - ctags               # Generates an index to locate quickly
-  - git                 # versionning software
-  - hub                 # git wrapper to help with github manipulation
-  - pgcli               # command line interface for postgres http://pgcli.com/
-  - thefuck             # retry command that fail, like sudo, git push...
-  - tig                 # git gui in terminal
-  - vim                 # file editor
+  - ansible                    # it automation, server provisionning, config tool
+  - autojump                   # faster cd
+  - csv-fix                    # helps manipulatings and fixing csv files
+  - ctags                      # Generates an index to locate quickly
+  - diff-so-fancy              # better git diff
+  - fpp                        # facebook fuzzy finder picker
+  - fswatch                    # file change monitor https://github.com/emcrisostomo/fswatch
+  - fzf                        # fuzzy finder
+  - git                        # versionning software
+  - heroku-toolbelt            # heroku cli
+  - htop-osx                   # htop in macos, view processes, cpu, ram, etc...
+  - hub                        # git wrapper to help with github manipulation
+  - imagemagick                # image manipulation
+  - jq                         # print and modify json
+  - jrnl                       # journaling app in command line
+  - mas                        # manage software from apple app store
+  - openssl                    # toolkit implementing SSL v2/v3 and TLS protocols
+  - libyaml                    # should come after openssl
+  - parity                     # help dealing with staging and production env on heroku
+  - pgcli                      # command line interface for postgres http://pgcli.com/
+  - phantomjs                  # headless browser
+  - postgres                   # best relational database
+  - qt                         # rails dependency
+  - rcm                        # dotfiles manager
+  - reattach-to-user-namespace # help dealing with tmux and vim
+  - redis                      # database polyvalente
+  - terminal-notifier          # send osx notification
+  - textql                     # manipulate csv
+  - the_silver_searcher        # better grep
+  - thefuck                    # retry command that fail, like sudo, git push...
+  - tig                        # git gui in terminal
+  - tmux                       # better than screen, project manager, tab, windows...
+  - tree                       # display files as tree
+  - vim                        # file editor
+  - wget                       # http client
+  - youtube-dl                 # dl videos from youtube
+  - zsh                        # better bash
+  - elasticsearch
+  - kibana
 
-  # - autoconf
-  # - heroku-toolbelt
-  # - automake
-  # - bison
-  # - cabal-install
-  # - cloog
-  # - cmake
-  # - diff-so-fancy
-  # - dos2unix
-  # - dynamodb-local
-  # - elasticsearch
-  # - elixir
-  # - emacs-mac
-  # - erlang
-  # - exercism
-  # - faac
-  # - fasd
-  # - fcrackzip
-  # - fpp
-  # - freetype
-  # - fswatch
-  # - fzf
-  # - gdbm
-  # - gettext
-  # - ghc
-  # - git-flow
-  # - glib
-  # - gmp
-  # - go
-  # - gradle
   # - graphviz
-  # - htop-osx
-  # - imagemagick
-  # - isl
-  # - jpeg
-  # - jq
-  # - jrnl
-  # - jsonpp
-  # - kafka
-  # - lame
   # - libav
-  # - libevent
-  # - libffi
-  # - libmpc
-  # - libpng
-  # - libssh2
-  # - libtiff
-  # - libtool
-  # - libyaml
-  # - lynx
-  # - mas
-  # - mercurial
-  # - midnight-commander
-  # - mongodb
   # - mpfr
-  # - mysql
-  # - neo4j
-  # - node
-  # - nvm
   # - oniguruma
-  # - openssl
-  # - pandoc
-  # - parity
   # - pcre
-  # - phantomjs
   # - pick
   # - pkg-config
-  # - postgresql
-  # - qt5
   # - ranger
-  # - rbenv
-  # - rbenv-gemset
-  # - rcm
   # - readline
-  # - reattach-to-user-namespace
-  # - redis
-  # - ruby-build
   # - s-lang
-  # - sqlite
-  # - terminal-notifier
-  # - textql
-  # - the_silver_searcher
-  # - tmux
-  # - tree
   # - unison
   # - unixodbc
-  # - unoconv
   # - v8
   # - watchman
-  # - wget
   # - wxmac
-  # - x264
-  # - xvid
-  # - xz
-  # - youtube-dl
-  # - zookeeper
-  # - zsh
+  # - midnight-commander
+  #
+  # - rbenv
+  # - rbenv-gemset
+  # - ruby-build
+  # - exercism
+  #
+  # - elasticsearch
+  # - redis
+  # - sqlite
+  # - erlang
+  # - elixir
+  # - go
+  # - nvm
+  # - node

@@ -16,7 +16,9 @@ ansible-playbook laptop.yml -K
 
 
 ##Manual installs
-- Load licences into paid apps : istat, bettertouchtool, bartender, hazzel
+- Load licences and import settings for apps in ./files
+- post install fzf # TODO need post installs :( https://github.com/junegunn/fzf
+- setup nvalt
 
 ##TODO
 - tmuxinator

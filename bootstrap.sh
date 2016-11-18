@@ -94,3 +94,4 @@ fancy_echo "Updating Homebrew formulae ..."
 brew update
 fancy_echo "Installing ansible"
 brew install ansible
+sudo xcode-select --install   

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>build</key>
+	<real>673</real>
+	<key>license</key>
+	<string>5585-9159-5944-8798-7695</string>
+	<key>preferences</key>
+	<dict>
+		<key>Battery_MenubarCustomizeStates</key>
+		<integer>0</integer>
+		<key>Battery_MenubarHideUPS</key>
+		<integer>0</integer>
+		<key>Battery_MenubarMode</key>
+		<string>2,1</string>
+		<key>CPU_MenubarMode</key>
+		<string>0</string>
+		<key>Disks_MenubarMode</key>
+		<string>0</string>
+		<key>FanControl_Enabled</key>
+		<false/>
+		<key>Memory_DisplayFormat</key>
+		<integer>1</integer>
+		<key>Memory_MenubarMode</key>
+		<string>1</string>
+		<key>MenubarGraphOpacity</key>
+		<real>0.18905453383922577</real>
+		<key>MenubarSkinColor</key>
+		<integer>0</integer>
+		<key>MenubarSkinColor-Dark</key>
+		<integer>0</integer>
+		<key>MenubarSkinColor-Light</key>
+		<integer>0</integer>
+		<key>MenubarTheme</key>
+		<integer>0</integer>
+		<key>Network_MenubarMode</key>
+		<string>0</string>
+		<key>Sensors_MenubarMode</key>
+		<string>0</string>
+		<key>StatusItems-Order</key>
+		<array>
+			<integer>5</integer>
+			<integer>4</integer>
+			<integer>2</integer>
+			<integer>3</integer>
+			<integer>1</integer>
+			<integer>6</integer>
+			<integer>7</integer>
+		</array>
+		<key>Time_CalendarShowWeeks</key>
+		<integer>1</integer>
+		<key>Time_Cities</key>
+		<array>
+			<real>5128581</real>
+			<real>2643743</real>
+			<real>2988507</real>
+			<real>2147714</real>
+			<real>5368361</real>
+		</array>
+		<key>Time_MenubarFlashSeperators</key>
+		<integer>1</integer>
+		<key>Time_MenubarFormat</key>
+		<array>
+			<string>' '</string>
+			<string>HH</string>
+			<string>':'</string>
+			<string>mm</string>
+		</array>
+	</dict>
+	<key>version</key>
+	<real>5.1999998092651367</real>
+</dict>
+</plist>
