@@ -22,28 +22,29 @@ homebrew_cask_apps:
   - imageoptim       # makes images load faster
   - istat-menus      # mac metrics in menu bar
   - iterm2           # terminal
-  - karabiner        # key remapping software
   - kitematic        # docker store
   - libreoffice      # open Word, Excell files
   - livereload       # livereload server for autoreloading
-  - polymail         # nice gmail client with multi inbox
   - noizio           # ambiant noises, great for productivity
+  - nvalt            # note taking in plain text
   - paw              # best gui http client
-  - quitter          # quit inactive apps
   - rescuetime       # track where time goes
   - skype            # video / audio communication
   - slack            # instant messages
   - spotify          # get some music
   - sqlitebrowser    # sqlite gui
-  - toggldesktop     # app tracking
   - transmission     # torrent downloader
-  - transmit         # fpt client
   - virtualbox       # virtual machines
   - vlc              # media player
-  - xccello          # trello desktop app
-  - nvalt            # note taking in plain text
-  - mou              # markdown editor
 
+  # - mou              # markdown editor
+  # - toggldesktop     # app tracking
+  # - karabiner        # key remapping software
+  # - quitter          # quit inactive apps
+  # - transmit         # fpt client
+  # - xccello          # trello desktop app
+
+  # - polymail         # nice gmail client with multi inbox
   # - charles           # packets inspector only on mac
   # - calibre           # converting pdf to epub
   # - wireshark         # packets inspector

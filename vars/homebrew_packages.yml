@@ -38,6 +38,7 @@ homebrew_installed_packages:
   - zsh                        # better bash
   - elasticsearch
   - kibana
+  - csvkit
 
   # - graphviz
   # - libav

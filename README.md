@@ -25,4 +25,3 @@ ansible-playbook laptop.yml -K
 - custom zsh plugins
 - solarized
 
-
